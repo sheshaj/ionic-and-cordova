@@ -1,0 +1,7 @@
+{
+  "name": "first-week",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
